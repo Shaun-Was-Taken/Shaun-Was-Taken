@@ -5,13 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaun-was-taken&label=Profile%20views&color=0e75b6&style=flat" alt="shaun-was-taken" /> </p>
 
-- 🔭 I’m currently working on [improving Chahatay TransliterationTool](https://github.com/Shaun-Was-Taken/Chaghatay-Tranliteration-Tool)
+- 🔭 I’m currently working on [Improving Chahatay TransliterationTool](https://github.com/Shaun-Was-Taken/Chaghatay-Tranliteration-Tool)
 
 - 🌱 I’m currently learning **CSS, HTML, Express, Javascript, TailwindCSS**
 
 - 📫 How to reach me **ssubat0628@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
