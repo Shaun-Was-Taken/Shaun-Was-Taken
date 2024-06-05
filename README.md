@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sulitan Subade(Shaun)</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Shaun</h1>
+<h3 align="center">A passionate full stack developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146056,width-1070,height-580,imgsize-638053/photo.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaun-was-taken&label=Profile%20views&color=0e75b6&style=flat" alt="shaun-was-taken" /> </p>
-
-- 🔭 I’m currently working on [Improving Chahatay TransliterationTool](https://github.com/Shaun-Was-Taken/Chaghatay-Tranliteration-Tool)
-
-- 🌱 I’m currently learning **CSS, HTML, Express, Javascript, TailwindCSS**
-
-- 📫 How to reach me **ssubat0628@gmail.com**
 
 <p align="left">
 </p>
